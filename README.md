@@ -1,5 +1,5 @@
 # NTP
-Stratum 1 NTP Server based on an ESP8266 processor and a Ublox Neo8 GPS Module
+Stratum 1 NTP Server based on an ESP8266 processor and a Ublox Neo8 GPS Module - Codename "Amarantha"
 Based around the design and code of Cristiano Monteiro <cristianomonteiro@gmail.com>
 https://github.com/Montecri/GPSTimeServer
 That is based on the work of Bruce E. Hall, W8BH <bhall66@gmail.com>
